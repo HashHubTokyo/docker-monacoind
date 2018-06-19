@@ -1,2 +1,2 @@
-# docker-monacoind
-Monacoin wallet on Docker.
+# docker-bitcoind
+Bitcoin wallet on Docker.
